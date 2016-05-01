@@ -1,2 +1,2 @@
 # ctf
-For writeups
+For writeups.
